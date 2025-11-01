@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "summer-2025-openings",
-    title: "Summer 2025 Openings Party Rank Sorter",
-    description: "Party rank sorter for Summer 2025 Openings."
+    localStoragePrefix: "bumpofchicken",
+    title: "BUMP OF CHICKEN Party Rank Sorter",
+    description: "Party rank sorter for BUMP OF CHICKEN."
 };
